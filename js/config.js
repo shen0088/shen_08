@@ -39,9 +39,9 @@ const API_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    xiaomaomi: {
-        api: 'https://www.qilinzyz.com/api.php/provide/vod',
-        name: '麒麟资源',
+    360: {
+        api: 'https://360zyzz.com/api.php/provide/vod',
+        name: '360影视资源',
     },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
