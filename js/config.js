@@ -40,7 +40,7 @@ const API_SITES = {
         name: '天涯资源',
     },
     xiaomaomi: {
-        api: 'https://www.qilinzyz.com/api.php/provide/vod/',
+        api: 'https://www.qilinzyz.com/api.php/provide/vod',
         name: '麒麟资源',
     },
     ffzy: {
